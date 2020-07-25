@@ -6,6 +6,8 @@ This is the final project from STAT 149 - Generalized Linear Models at Harvard U
 
 The code and data are located in [code/](https://github.com/ztizzlegaming/framingham-glm/tree/master/code), the prompt and final report are in [report/](https://github.com/ztizzlegaming/framingham-glm/tree/master/report), and plots used in the report are in [chd_vs_plots/](https://github.com/ztizzlegaming/framingham-glm/tree/master/chd_vs_plots), [smooths/](https://github.com/ztizzlegaming/framingham-glm/tree/master/smooths), and [trees/](https://github.com/ztizzlegaming/framingham-glm/tree/master/trees).
 
+The final report is here: [Framingham Heart Study Analysis.pdf](https://github.com/ztizzlegaming/framingham-glm/blob/master/report/Framingham%20Heart%20Study%20Analysis.pdf).
+
 ### Usage
 
 First, clone the repository:
